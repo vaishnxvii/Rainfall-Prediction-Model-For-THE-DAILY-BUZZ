@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-yellow?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)   [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)   [![Numpy](https://img.shields.io/badge/Numpy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy)](https://numpy.org/)   [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/)   [![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-cyan?style=for-the-badge&logo=seaborn)](https://seaborn.pydata.org/)
 
-#### "_Will it rain tomorrow?_" - A question as old as civilization, now answered with 87% accuracy using advanced machine learning! 🎯
+#### "_Will it rain tomorrow?_" - A question as old as civilization, now answered with 87.02% accuracy using advanced machine learning! 🎯
 
 ---
 
